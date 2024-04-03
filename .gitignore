@@ -190,4 +190,5 @@ yarn-error.log*
 *.pkl
 
 # Ignore all folders with "dataset_preprocessed" in the name
+dataset/
 dataset_preprocessed*/
