@@ -192,3 +192,4 @@ yarn-error.log*
 # Ignore all folders with "dataset_preprocessed" in the name
 dataset/
 dataset_preprocessed*/
+archive/
