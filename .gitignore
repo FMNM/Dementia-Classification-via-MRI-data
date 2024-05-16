@@ -194,3 +194,7 @@ dataset/
 dataset_preprocessed*/
 archive/
 filtered_dataset/
+3D_dataset/
+
+# Misc.
+lab12/
